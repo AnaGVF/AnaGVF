@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ana Vassallo (also known as Aniushkania)!
 
-I am a 5th semester Software Engineering Student and I love to create new programs & video games! 💻🎮
+I am a 6th semester Software Engineering Student who loves to create new programs & video games! 💻🎮
 
 - 💪 My strengths are Front-end Development, Python, JavaScript, C#!
 - 🔭 I’m currently working on a new RPG, third person, adventure video game!
