@@ -6,6 +6,7 @@ I am a 7th semester Software Engineering Student who loves to create new program
 - 🔭 I’m currently working on a new RPG, third person, adventure video game!
 - 🌱 I’m currently learning React.js, Node.js, React Native, Unreal Engine!
 - 💬 Ask me about anything related to programming and video games!
+- 🎨 I LOVE creating 3D art!
 - 📫 How to reach me: ana.vassallo97@gmail.com
 - ⚡ Fun fact: I love sushi & ramen!
 
