@@ -1,11 +1,11 @@
-### Hi there 👋, I'm Ana Vassallo (also known as Aniushkania)!
+### Hi there 👋, my name is Ana Vassallo (a.k.a. Aniushkania)!
 
-I am a Software Engineer who loves to create new programs & video games! 💻🎮
+I am a Software Engineer & 3D Artist who loves to create new programs, art & video games! 💻🎮🎨
 
 - 💪 My strengths are Front-end Development, Python, JavaScript, C#!
-- 🔭 I’m currently working on a new RPG, third person, adventure video game!
-- 🌱 I’m currently learning React.js, Node.js, React Native, Unreal Engine!
-- 💬 Ask me about anything related to programming and video games!
+- 🔭 I’m currently working on a new 3D projects & video games using Unity and Unreal Engine!
+- 🌱 I’m currently learning Houdini, Unreal Engine & more!
+- 💬 Ask me about anything related to programming, 3D art, and video games!
 - 🎨 I LOVE creating 3D art!
 - 📫 How to reach me: ana.vassallo97@gmail.com
 - ⚡ Fun fact: I love sushi & ramen!
