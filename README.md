@@ -10,4 +10,4 @@ I am currently studying M.Sc. Human-Computer Interaction at Bauhaus-Universität
 - 📫 How to reach me: ana.vassallo97@gmail.com
 - ⚡ Fun fact: I love sushi & open-world video games!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anagvf&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anagvf)](https://github.com/anuraghazra/github-readme-stats)
