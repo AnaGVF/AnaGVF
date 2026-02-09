@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ana Vassallo (a.k.a. Aniushkania)!
+# Hi there 👋, my name is Ana Vassallo (a.k.a. Aniushkania)!
 
 I am a Software Engineer & 3D Artist who loves to create new programs, art & video games! 💻🎮🎨
 I am currently studying M.Sc. Human-Computer Interaction at Bauhaus-Universität Weimar in Germany. 💻📚
@@ -9,6 +9,3 @@ I am currently studying M.Sc. Human-Computer Interaction at Bauhaus-Universität
 - 🎨 I LOVE creating 3D art!
 - 📫 How to reach me: ana.vassallo97@gmail.com
 - ⚡ Fun fact: I love sushi & open-world video games!
-
-# My GitHub Stats
-[![AnaGVF's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaGVF&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
