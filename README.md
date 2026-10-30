@@ -1,11 +1,10 @@
 # Hi there 👋, my name is Ana Vassallo (a.k.a. Aniushkania)!
 
-I am a Software Engineer & 3D Artist who loves to create new programs, art & video games! 💻🎮🎨
-I am currently studying M.Sc. Human-Computer Interaction at Bauhaus-Universität Weimar in Germany. 💻📚
+I am an **AI & XR Software Engineer** bridging code architecture and 3D visual production. Currently completing my M.Sc. in Human-Computer Interaction at Bauhaus-Universität Weimar in Germany.
 
-- 💪 Strengths: C#, Python, JavaScript.
-- 🌱 I’m currently learning about VR with Unity, Deep Learning, advanced 3D Art, & more!
-- 💬 Ask me about anything related to 3D art, programming, and video games!
-- 🎨 I LOVE creating 3D art!
-- 📫 How to reach me: ana.vassallo97@gmail.com
-- ⚡ Fun fact: I love sushi & open-world video games!
+* 💻 **Core Tech Stack:** C#, Python, React, Unity, Blender
+* 🤖 **AI & Agentic Systems:** LLM conversational agents, prompt engineering, multi-modal workflows (LangChain, Hugging Face, PyTorch, OpenAI / Anthropic APIs)
+* 🎮 **Spatial Computing & 3D:** VR/XR applications, custom shaders, video games & interactive environments
+* 💬 **Ask me about:** Embodied AI agents in VR, real-time spatial interaction, full-stack tools, and 3D pipelines!
+* 📬 **How to reach me:** [ana.vassallo97@gmail.com](mailto:ana.vassallo97@gmail.com)
+* ⚡ **Fun fact:** I love sushi & open-world video games!
